@@ -131,6 +131,7 @@ function my_custom_pages_on_theme_activation()
 ```
 
 If you want to use a different file than the original file, you must call the functions using 👉 ```require_once```
+
 That's all it is, oh, enjoy😋
 
  
